@@ -1,6 +1,8 @@
 # Scroll-Trigger-Sticky-Cards 🎨
 
 ## Demo 🎬
+![Project Demo](public\Capsules.gif)
+
 A premium interactive showcase featuring sticky cards with smooth scroll-triggered animations. Experience elegant card transitions and marquee text animations as you scroll through the Capsules® resort experience.
 
 ## Advanced Scroll Animations with Sticky Cards
