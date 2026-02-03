@@ -15,7 +15,7 @@ A premium interactive showcase featuring sticky cards with smooth scroll-trigger
 
 A stunning interactive website featuring smooth scroll-triggered animations, sticky card effects, and dynamic marquee text loops. This project demonstrates advanced animation techniques using GSAP and Lenis to create a professional, premium user experience.
 
-- **[Live Demo](https://your-live-url.netlify.app/)** - View the project in action
+- **[Live Demo](https://scroll-trigger-sticky-cards.vercel.app/)** - View the project in action
 - **[GitHub Repository](https://github.com/Saurabh-git-hub/Scroll-Trigger-Sticky-Cards)** - View source code
 
 ---
